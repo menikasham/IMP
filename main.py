@@ -1,7 +1,7 @@
 from people import get_employees
 from salary import calculate_salary
 from datetime import datetime
-import pandas as pd
+import PyQt5
 
 '''
 хотя в нашем случае допустимо
