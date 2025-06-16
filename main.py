@@ -1,6 +1,7 @@
 from peoples import people
 from finance import salary
 from datetime import datetime
+from PyQt5 import QtCore, QtGui, QtWidgets
 
 '''
 хотя в нашем случае допустимо
